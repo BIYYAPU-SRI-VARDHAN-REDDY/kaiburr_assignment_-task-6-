@@ -3,7 +3,7 @@
 Task 6. Data Science example.
 Implement a sample machine learning program for a problem statement of your choice
 
-# steps to follow for task-6 solution
+# steps for task-6 solution
 Importing libraries: In the first step, we import the required libraries for our program. We need pandas for data manipulation, numpy for numerical operations, sklearn for machine learning models, warnings to ignore any warnings that may arise, and pickle to save the trained model for later use.
 
 Loading data: Next, we load our dataset using the pandas library. This dataset contains information about different crops and their attributes like nitrogen, phosphorous, potassium levels, and pH values.
